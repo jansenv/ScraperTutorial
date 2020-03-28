@@ -5,9 +5,12 @@ C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\bin\Debug\netcoreapp3.1
 C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\bin\Debug\netcoreapp3.1\ScraperTutorial.dll
 C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\bin\Debug\netcoreapp3.1\ScraperTutorial.pdb
 C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\obj\Debug\netcoreapp3.1\ScraperTutorial.csprojAssemblyReference.cache
-C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\obj\Debug\netcoreapp3.1\ScraperTutorial.csproj.CoreCompileInputs.cache
 C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\obj\Debug\netcoreapp3.1\ScraperTutorial.AssemblyInfoInputs.cache
 C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\obj\Debug\netcoreapp3.1\ScraperTutorial.AssemblyInfo.cs
 C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\obj\Debug\netcoreapp3.1\ScraperTutorial.dll
 C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\obj\Debug\netcoreapp3.1\ScraperTutorial.pdb
 C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\obj\Debug\netcoreapp3.1\ScraperTutorial.genruntimeconfig.cache
+C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\obj\Debug\netcoreapp3.1\ScraperTutorial.csproj.CoreCompileInputs.cache
+C:\Users\janse\workspace\ScraperTutorial\ScraperTutorial\obj\Debug\netcoreapp3.1\ScraperTutorial.csproj.CopyComplete
